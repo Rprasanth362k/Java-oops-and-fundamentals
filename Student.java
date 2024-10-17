@@ -1,5 +1,6 @@
 class Student
 {
+//initialize the object through a reference variable.
 int age;
 String name;
 String college;
