@@ -1,6 +1,6 @@
 package clas_an_obj;
 
-public class Abstract_Method {
+public abstract class Abstract_Method {
 
 	public static void main(String[] args) {
 		student_info();
@@ -13,5 +13,6 @@ public class Abstract_Method {
 
 		System.out.println("Name: "+ name+", Roll_no: "+roll_no+", Age: "+age+", College_Name: "+college_Name);
 	}
+ abstract	public void personal_info();
 
 }
