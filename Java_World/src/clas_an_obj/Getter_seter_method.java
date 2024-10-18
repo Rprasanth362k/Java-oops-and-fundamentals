@@ -21,7 +21,7 @@ public class Getter_seter_method {
 	}
 	public void info_Display()
 	{
-		System.out.println("Roll_no: "+roll_no+", Name: "+name);
+		System.out.println("Roll_no: "+roll_no+",  Name: "+name);
 	}
 
 	public static void main(String[] args) {

@@ -13,7 +13,7 @@ public class Instance_Method {
 	}
 	public void method(String name)
 	{
-		System.out.println(" I am the "+name+" method.");
+		System.out.println(" I am the "+name+" method. ");
 	}
 	public int add(int number1,int number2)
 	{
