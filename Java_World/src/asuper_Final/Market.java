@@ -14,7 +14,7 @@ public class Market {
 	    }
 	  void supermarket()
 	  {
-	 Supermarket ="Not-Barganing";
+	// Supermarket ="Not-Barganing"; // can not reassign to final variable
 	  }
 	 
 	 static void  farmerland()

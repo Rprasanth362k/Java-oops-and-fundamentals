@@ -1,6 +1,6 @@
 package asuper_Final;
 
-public class Test extends Farmer {
+public class Test extends Farmer { // can not extends final method.
 	
 	 static void  farmerland()
 	 {
