@@ -8,7 +8,7 @@ public class Abstract_Method {
 		
 	}
 	static void student_info() {
-		String name="Prasanth",college_Name="jaya Arts & Science college. ";
+		String name="Prasanth",college_Name="Jaya Arts & Science college. ";
 		int age=24,roll_no=101;
 
 		System.out.println("Name: "+ name+", Roll_no: "+roll_no+", Age: "+age+", College_Name: "+college_Name);
