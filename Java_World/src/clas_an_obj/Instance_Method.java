@@ -1,7 +1,7 @@
 package clas_an_obj;
 
 public class Instance_Method {
-	int sum,sum1;
+	int sum, sum1;
 
 	public static void main(String[] args) {
 		Instance_Method obj1 = new Instance_Method();

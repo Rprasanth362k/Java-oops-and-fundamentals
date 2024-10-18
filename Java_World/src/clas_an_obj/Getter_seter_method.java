@@ -28,7 +28,7 @@ public class Getter_seter_method {
 		
 		Getter_seter_method student = new Getter_seter_method();
 		student.set_roll(101);
-	    student.set_name("Prasanth");
+	    student.set_name("Prasanth ");
 	    student.info_Display();
 	    
 	}

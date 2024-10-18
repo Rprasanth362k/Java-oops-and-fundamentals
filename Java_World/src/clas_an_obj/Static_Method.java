@@ -6,7 +6,7 @@ public class Static_Method {
 		method("Static");
 	}
 	public  static void method (String name) {
-		System.out.println("I am the "+name+" method ");
+		System.out.println("I am the "+name+" method. ");
 		
 	}
 
