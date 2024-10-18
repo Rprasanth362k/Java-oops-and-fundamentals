@@ -9,6 +9,27 @@ final public class Farmer extends Market {
 		System.out.println("Farmer-shop-purchasing"+n1.Farmer_shop );
 	
 		Market.farmerland();
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 	
 	final static void  farmerland()
