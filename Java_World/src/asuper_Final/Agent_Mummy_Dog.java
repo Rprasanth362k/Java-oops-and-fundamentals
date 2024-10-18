@@ -30,13 +30,13 @@ public class Agent_Mummy_Dog {
 	 
 	public void  skill()
 	{
-		System.out.println("Skill: Detection, search and rescue, security, and protection in various military operations.");
+		System.out.println("Skill: Detection, search and rescue, security, and protection in various military operations");
 	}
 	 
 	 
 	public static void Rewards()
 	 {
-		 System.out.println("Reward: India Goverment annonced to Agent_Samantha_dog service  3 gold medal gived Thirisha  ");
+		 System.out.println("Reward: India Goverment annonced to Agent_Samantha_dog service  3 gold medal gived Thirisha");
 		 
 	 }
 	 }
