@@ -16,7 +16,7 @@ public class Ak_47 extends Gun {
 		 System.out.println("Gun is a weapon that is used for shooting-unwanted object in theworld");
 	 }
 	
-	static void legaltouse()
+	static void legalto_Use()
 	  {
 		 System.out.println("Legal to use otherwise Offence"); 
 	  }
