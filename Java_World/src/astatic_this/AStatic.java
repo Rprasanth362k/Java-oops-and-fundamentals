@@ -2,7 +2,7 @@ package astatic_this;
 
 public class AStatic {
    String  nonstaticmember ="object";
-  static String  staticmember ="static";
+  static String  staticmember ="class";
 
   
 	public static void main(String[] args) 
