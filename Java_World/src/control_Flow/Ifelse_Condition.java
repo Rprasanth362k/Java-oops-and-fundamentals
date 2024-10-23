@@ -1,6 +1,6 @@
 package control_Flow;
 
-public class IfelseIf_Condition {
+public class Ifelse_Condition {
 
 	public static void main(String[] args) {
 		policeSelection_criteria();
