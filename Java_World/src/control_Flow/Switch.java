@@ -6,13 +6,14 @@ public class Switch {
 		
 		String [] passanger_Name={"Prasanth","Karan","RajaRam","Srinivasan","Prabu","Krishnan"};
 		
-		int []bus_Stop = {1,2,3,4,5,6};
+		int []bus_Stop = {1,2,3,4,5,5};
 		
 		for(int i=0;i<passanger_Name.length;i++)
 		{
 			String passangername= passanger_Name[i];
 			int  bus_Sto= bus_Stop[i];
 		switch(bus_Sto)
+		
 		{
 		case 1: System.out.println(passangername+"        BusStop is: "+"Thiruttani");
 		break;
@@ -29,6 +30,7 @@ public class Switch {
 	    	System.out.println(passangername+"        Missing the depature place");
 		break;
 		}
+		
 		}
 		}
 

@@ -30,7 +30,7 @@ public class SwithBreakContinue {
 		System.out.println("\n Example with break in aloop");
 		for(int i=1;i<=5;i++)
 		{
-			if(i==3)
+			if(i==4)
 			{
 				break;//Stops execution within a loop or switch.
 			}
