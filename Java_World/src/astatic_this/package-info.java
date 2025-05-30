@@ -1,1 +1,0 @@
-package astatic_this;
