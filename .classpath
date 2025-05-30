@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="src/|oOPS/|constructor/|class_Object/|clas_an_obj/|basic_programme/" kind="src" path=""/>
+	<classpathentry kind="src" path="basic_programme"/>
+	<classpathentry kind="src" path="clas_an_obj"/>
+	<classpathentry kind="src" path="class_Object"/>
+	<classpathentry kind="src" path="constructor"/>
+	<classpathentry kind="src" path="oOPS"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
